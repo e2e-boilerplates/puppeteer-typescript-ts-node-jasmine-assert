@@ -1,11 +1,11 @@
-# puppeteer (TypeScript, ts-node, Jasmine and Expect)
-[![GitHub Actions status | e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-expect](https://github.com/e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-expect/workflows/puppeteer-typescript-ts-node-jasmine-expect/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-expect/actions?workflow=puppeteer-typescript-ts-node-jasmine-expect)
+# puppeteer (TypeScript, ts-node, Jasmine and Assert)
+[![GitHub Actions status | e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-assert](https://github.com/e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-assert/workflows/puppeteer-typescript-ts-node-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-assert/actions?workflow=puppeteer-typescript-ts-node-jasmine-assert)
 
-Puppeteer end-to-end test automation boilerplate, using TypeScript, ts-node, Jasmine and Expect.
+Puppeteer end-to-end test automation boilerplate, using TypeScript, ts-node, Jasmine and Assert.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-expect.git
-    cd puppeteer-typescript-ts-node-jasmine-expect
+    git clone git@github.com:e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-assert.git
+    cd puppeteer-typescript-ts-node-jasmine-assert
     npm install
     npm run test
