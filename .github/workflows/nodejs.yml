@@ -1,4 +1,4 @@
-name: puppeteer-typescript-ts-node-jasmine-expect
+name: puppeteer-typescript-ts-node-jasmine-assert
 
 on: 
   push:
