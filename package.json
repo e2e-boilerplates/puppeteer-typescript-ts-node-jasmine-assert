@@ -1,7 +1,7 @@
 {
-  "name": "puppeteer-es6modules-typescript-tsnode-jasmine",
+  "name": "puppeteer-typescript-ts-node-jasmine-assert",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, TypeScript and jasmine.",
+  "description": "Puppeteer end-to-end test automation boilerplate project, using TypeScript, Jasmine and Assert.",
   "scripts": {
     "pretty": "prettier --no-config './spec/*.ts' --write",
     "lint": "tslint -c tslint.json './spec/*.ts'",
