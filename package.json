@@ -1,6 +1,9 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-  "description": "puppeteer end-to-end test automation boilerplate.",
+  "bugs": {
+    "url": "https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/issues"
+  },
+  "description": "Puppeteer end-to-end test automation boilerplate. using Using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/is-ci": "2.0.0",
     "@types/jasmine": "3.5.8",
@@ -16,6 +19,7 @@
     "tslint-config-prettier": "1.18.0",
     "typescript": "3.8.3"
   },
+  "homepage": "https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -43,7 +47,7 @@
   "name": "puppeteer-typescript-ts-node-jasmine-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/puppeteer-typescript-ts-node-jasmine-assert.git"
+    "url": "git+https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert.git"
   },
   "scripts": {
     "lint": "tslint -c tslint.json './spec/*.ts'",
