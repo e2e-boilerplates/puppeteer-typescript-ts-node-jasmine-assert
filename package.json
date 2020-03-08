@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "Puppeteer end-to-end test automation boilerplate, using TypeScript, Jasmine and Assert.",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "description": "puppeteer end-to-end test automation boilerplate.",
   "devDependencies": {
     "@types/is-ci": "2.0.0",
     "@types/jasmine": "3.5.8",
@@ -23,6 +23,11 @@
   },
   "keywords": [
     "assert",
+    "boilerplate",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "jasmine",
     "puppeteer",
     "ts-node",
