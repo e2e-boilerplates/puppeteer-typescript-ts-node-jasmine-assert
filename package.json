@@ -3,7 +3,7 @@
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/issues"
   },
-  "description": "Puppeteer end-to-end test automation boilerplate. using Using TypeScript, ts-node, Jasmine and Assert.",
+  "description": "Puppeteer end-to-end test automation boilerplate. Using Using TypeScript, ts-node, Jasmine and Assert.",
   "devDependencies": {
     "@types/is-ci": "2.0.0",
     "@types/jasmine": "3.5.8",
