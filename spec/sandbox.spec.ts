@@ -1,4 +1,4 @@
-import assert from "assert";
+import * as assert from "assert";
 import puppeteer from "puppeteer";
 
 let page: any;
