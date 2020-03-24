@@ -1,5 +1,5 @@
 import * as assert from "assert";
-import puppeteer from "puppeteer";
+import * as puppeteer from "puppeteer";
 
 let page: any;
 let browser: any;
