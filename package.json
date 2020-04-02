@@ -52,7 +52,7 @@
   },
   "scripts": {
     "lint": "tslint -c tslint.json './spec/*.ts'",
-    "pretty": "prettier --no-config './spec/*.ts' --write",
+    "pretty": "prettier --no-config './spec/*.{js,ts}' --write",
     "test": "npx jasmine"
   },
   "version": "1.0.0"
