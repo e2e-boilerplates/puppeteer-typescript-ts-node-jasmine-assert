@@ -1,0 +1,12 @@
+| referrer                                                                                           | count | uniques |
+| :------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert                                       | 5     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/blob/master/spec/sandbox.spec.ts      | 3     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/actions                               | 3     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/tree/master/spec                      | 2     | 2       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/actions/runs/61122173                 | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/actions/runs/61142787                 | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/actions/runs/62548469                 | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/blob/master/spec/helpers/ts-node.js   | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/blob/master/spec/support/jasmine.json | 1     | 1       |
+| /e2e-boilerplate/puppeteer-typescript-ts-node-jasmine-assert/edit/master/spec/sandbox.spec.ts      | 1     | 1       |
